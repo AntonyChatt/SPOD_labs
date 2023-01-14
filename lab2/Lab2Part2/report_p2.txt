@@ -1,0 +1,24 @@
+Dimension: 2048
+Thread number: 8
+Repeats number: 5
+<<<<<=============================================
+
+All several threads calculation times:
+Repeat 0: 6.23653
+Repeat 1: 6.41125
+Repeat 2: 6.29406
+Repeat 3: 6.21263
+Repeat 4: 6.22667
+General time of several threads calculation    31.3811
+Average time of several threads calculation    6.27623
+
+<<<<<=============================================
+
+All one thread calculation times:
+Repeat 0: 46.55
+Repeat 1: 46.4774
+Repeat 2: 46.2491
+Repeat 3: 46.497
+Repeat 4: 45.957
+General time of one thread calculation 231.731
+Average time of one thread calculation 46.3461

@@ -1,0 +1,4 @@
+﻿  Lab2Part2.cpp
+C:\TPU\SPOD\lab2\Lab2Part2\Lab2Part2\Lab2Part2.cpp(69,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\TPU\SPOD\lab2\Lab2Part2\Lab2Part2\Lab2Part2.cpp(108,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lab2Part2.vcxproj -> C:\TPU\SPOD\lab2\Lab2Part2\x64\Debug\Lab2Part2.exe

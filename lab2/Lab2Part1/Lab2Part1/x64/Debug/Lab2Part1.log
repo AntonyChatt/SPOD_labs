@@ -1,0 +1,8 @@
+﻿  Lab2Part1.cpp
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(45,7): warning C4101: i: неиспользованная локальная переменная
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(91,7): warning C4101: i: неиспользованная локальная переменная
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(123,5): warning C4101: i: неиспользованная локальная переменная
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(147,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(168,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\TPU\SPOD\lab2\Lab2Part1\Lab2Part1\Lab2Part1.cpp(155,5): warning C4101: i: неиспользованная локальная переменная
+  Lab2Part1.vcxproj -> C:\TPU\SPOD\lab2\Lab2Part1\x64\Debug\Lab2Part1.exe

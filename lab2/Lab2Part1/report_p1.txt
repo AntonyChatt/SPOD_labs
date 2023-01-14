@@ -1,0 +1,24 @@
+Repeat 5: 1.37625
+Repeat 6: 1.3551
+Repeat 7: 1.35582
+Repeat 8: 1.36487
+Repeat 9: 1.38548
+General time of several threads calculation    13.9322
+Average time of several threads calculation    1.39322
+
+---------------------------ONE THREAD----------------------------
+>>>>>>>>>>===============================================================
+
+All one thread calculation times:
+Repeat 0: 5.52225
+Repeat 1: 5.53573
+Repeat 2: 5.48425
+Repeat 3: 5.52747
+Repeat 4: 5.48317
+Repeat 5: 5.54318
+Repeat 6: 5.48475
+Repeat 7: 5.55124
+Repeat 8: 5.47797
+Repeat 9: 5.55104
+General time of one thread calculation: 55.1611
+Average time of one thread calculation 5.51611
