@@ -1,0 +1,233 @@
+Dimension: 4096
+Thread number: 8
+Repeats number: 10
+
+
+-------------- Repeat 0 --------------
+Thread   21304 is stopped calculating
+Thread   17384Thread  is stopped calculating4452 is stopped calculating
+
+Thread   11048 is stopped calculating
+Thread    5484 is stopped calculating
+Thread    8708 is stopped calculating
+Thread   10396 is stopped calculating
+Thread     460 is stopped calculating
+
+1 4 9 3    1 2 5 5    84087 84057 83951 83779
+4 6 7 9    4 4 3 9    82808 83350 82630 83833
+6 4 6 3    8 2 2 3    83432 82795 83544 83042
+3 7 9 3    3 5 5 5    82237 81518 80817 82367
+
+1 4 9 3    1 2 5 5    84087 84057 83951 83779
+4 6 7 9    4 4 3 9    82808 83350 82630 83833
+6 4 6 3    8 2 2 3    83432 82795 83544 83042
+3 7 9 3    3 5 5 5    82237 81518 80817 82367
+
+-------------- Repeat 1 --------------
+Thread    9896 is stopped calculating
+Thread   18132 is stopped calculating
+Thread   12208 is stopped calculating
+Thread   18660 is stopped calculating
+Thread    8692 is stopped calculating
+Thread   10440 is stopped calculating
+Thread   20052 is stopped calculating
+Thread    6212 is stopped calculating
+
+3 0 3 5    3 8 9 7    81313 81291 82137 82701
+6 2 9 1    6 0 5 1    84524 83596 83444 84381
+8 0 8 5    8 8 4 5    83706 83929 82240 84092
+3 3 3 5    5 1 9 7    82079 81196 81655 82689
+
+3 0 3 5    3 8 9 7    81313 81291 82137 82701
+6 2 9 1    6 0 5 1    84524 83596 83444 84381
+8 0 8 5    8 8 4 5    83706 83929 82240 84092
+3 3 3 5    5 1 9 7    82079 81196 81655 82689
+
+-------------- Repeat 2 --------------
+Thread   15552 is stopped calculating
+Thread   17544 is stopped calculating
+Thread   15648 is stopped calculatingThread   21808 is stopped calculating
+
+Thread    4276 is stopped calculating
+Thread   12388 is stopped calculating
+Thread   12276 is stopped calculating
+Thread   16044 is stopped calculating
+
+3 6 5 7    5 4 1 9    84831 85071 84459 84485
+6 8 1 3    8 6 7 3    83374 84274 84104 84109
+0 6 2 7    0 4 8 7    82164 82335 81812 81856
+5 7 5 7    7 5 1 9    83475 82924 83381 82693
+
+3 6 5 7    5 4 1 9    84831 85071 84459 84485
+6 8 1 3    8 6 7 3    83374 84274 84104 84109
+0 6 2 7    0 4 8 7    82164 82335 81812 81856
+5 7 5 7    7 5 1 9    83475 82924 83381 82693
+
+-------------- Repeat 3 --------------
+Thread   20896 is stopped calculating
+Thread   14188 is stopped calculating
+Thread   15168 is stopped calculating
+Thread   19916 is stopped calculating
+Thread   21116 is stopped calculating
+Thread   20040 is stopped calculating
+Thread    3512 is stopped calculating
+Thread   18848 is stopped calculating
+
+5 2 7 9    7 8 3 1    85277 84333 84255 84899
+8 4 5 5    8 2 1 5    82992 84042 82704 82549
+2 2 4 9    2 0 0 9    83268 84361 83576 83312
+7 3 7 9    7 1 3 1    82403 82234 83189 82157
+
+5 2 7 9    7 8 3 1    85277 84333 84255 84899
+8 4 5 5    8 2 1 5    82992 84042 82704 82549
+2 2 4 9    2 0 0 9    83268 84361 83576 83312
+7 3 7 9    7 1 3 1    82403 82234 83189 82157
+
+-------------- Repeat 4 --------------
+Thread   14388 is stopped calculating
+Thread   17588 is stopped calculating
+Thread   20012 is stopped calculating
+Thread   14236 is stopped calculating
+Thread    3124 is stopped calculating
+Thread   15288 is stopped calculating
+Thread   10364 is stopped calculating
+Thread    2840 is stopped calculating
+
+7 6 1 1    7 4 7 3    85381 84935 85075 85411
+0 0 7 7    0 8 3 7    83134 82934 82410 82419
+2 8 6 1    4 6 2 1    82606 84219 83640 83362
+9 9 1 1    9 7 7 3    82773 81900 82307 81073
+
+7 6 1 1    7 4 7 3    85381 84935 85075 85411
+0 0 7 7    0 8 3 7    83134 82934 82410 82419
+2 8 6 1    4 6 2 1    82606 84219 83640 83362
+9 9 1 1    9 7 7 3    82773 81900 82307 81073
+
+-------------- Repeat 5 --------------
+Thread   17892 is stopped calculating
+Thread   18576 is stopped calculating
+Thread   21440 is stopped calculating
+Thread   18192 is stopped calculating
+Thread   10132 is stopped calculating
+Thread   17584 is stopped calculating
+Thread   19172 is stopped calculating
+Thread   20920 is stopped calculating
+
+9 2 3 3    9 0 9 5    81069 81279 82205 81081
+0 6 9 9    2 4 5 9    83940 85322 84288 83589
+4 4 0 3    4 0 6 3    84606 83845 83850 84532
+9 5 3 3    1 3 9 5    82463 81336 81507 81947
+
+9 2 3 3    9 0 9 5    81069 81279 82205 81081
+0 6 9 9    2 4 5 9    83940 85322 84288 83589
+4 4 0 3    4 0 6 3    84606 83845 83850 84532
+9 5 3 3    1 3 9 5    82463 81336 81507 81947
+
+-------------- Repeat 6 --------------
+Thread   20064 is stopped calculating
+Thread    9400 is stopped calculating
+Thread   22328 is stopped calculating
+Thread   13428 is stopped calculating
+Thread   11700 is stopped calculatingThread   21752 is stopped calculating
+
+Thread   21692 is stopped calculating
+Thread   19532 is stopped calculating
+
+9 8 5 5    1 6 1 7    81941 83213 84371 83195
+2 0 3 1    2 8 9 1    83172 82520 82778 82963
+6 8 2 5    6 6 8 5    82640 82597 82138 83406
+1 1 5 5    1 9 1 7    83241 82710 84179 84105
+
+9 8 5 5    1 6 1 7    81941 83213 84371 83195
+2 0 3 1    2 8 9 1    83172 82520 82778 82963
+6 8 2 5    6 6 8 5    82640 82597 82138 83406
+1 1 5 5    1 9 1 7    83241 82710 84179 84105
+
+-------------- Repeat 7 --------------
+Thread   22060 is stopped calculating
+Thread   22152 is stopped calculating
+Thread   16600 is stopped calculating
+Thread    4472 is stopped calculating
+Thread   15184 is stopped calculating
+Thread   15008 is stopped calculating
+Thread   20260 is stopped calculating
+Thread   18464 is stopped calculating
+
+1 4 9 7    1 2 5 9    82345 81839 81423 81759
+4 6 5 3    4 4 1 3    82790 82520 81850 82289
+6 4 4 7    8 2 0 7    82652 84001 82830 83814
+3 7 9 7    3 5 5 9    81617 82098 82823 82043
+
+1 4 9 7    1 2 5 9    82345 81839 81423 81759
+4 6 5 3    4 4 1 3    82790 82520 81850 82289
+6 4 4 7    8 2 0 7    82652 84001 82830 83814
+3 7 9 7    3 5 5 9    81617 82098 82823 82043
+
+-------------- Repeat 8 --------------
+Thread   13900 is stopped calculating
+Thread    1600 is stopped calculating
+Thread   18060 is stopped calculating
+Thread   17680 is stopped calculating
+Thread    4212 is stopped calculating
+Thread   21420 is stopped calculating
+Thread   15196 is stopped calculating
+Thread   18232 is stopped calculating
+
+3 0 1 9    3 8 7 1    83839 85293 84579 84871
+4 2 7 5    6 0 3 7    82160 82696 83610 82551
+8 0 8 9    8 8 4 9    82588 83109 83480 83824
+3 3 1 9    5 1 7 1    83565 84228 83641 84175
+
+3 0 1 9    3 8 7 1    83839 85293 84579 84871
+4 2 7 5    6 0 3 7    82160 82696 83610 82551
+8 0 8 9    8 8 4 9    82588 83109 83480 83824
+3 3 1 9    5 1 7 1    83565 84228 83641 84175
+
+-------------- Repeat 9 --------------
+Thread   15008 is stopped calculating
+Thread   13772 is stopped calculating
+Thread   20452 is stopped calculating
+Thread   19688 is stopped calculating
+Thread   22284 is stopped calculating
+Thread   18420 is stopped calculating
+Thread   18736 is stopped calculating
+Thread   16048 is stopped calculating
+
+3 6 3 1    5 4 9 3    83363 82479 83331 83319
+6 8 1 7    8 6 7 9    84302 84460 83918 84037
+0 6 0 1    0 4 6 1    82852 82039 82716 82818
+5 9 3 1    5 7 9 3    83045 82882 82799 82943
+
+3 6 3 1    5 4 9 3    83363 82479 83331 83319
+6 8 1 7    8 6 7 9    84302 84460 83918 84037
+0 6 0 1    0 4 6 1    82852 82039 82716 82818
+5 9 3 1    5 7 9 3    83045 82882 82799 82943
+-----------------------------------------
+
+All several threads calculation times:
+48.7552
+48.89
+49.9627
+48.4429
+49.2611
+46.5777
+47.8175
+48.4408
+49.1328
+49.5624
+General time of several threads calculation    486.843
+Average time of several threads calculation    48.6843
+
+All one thread calculation times:
+364.923
+366.849
+367.909
+364.385
+362.012
+360.935
+362.74
+366.599
+364.663
+365.653
+General time of one thread calculation 3646.67
+Average time of one thread calculation 364.667

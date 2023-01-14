@@ -1,0 +1,163 @@
+Lab 1 Task 1
+Series: 1e+10
+Thread number: 8
+Repeats number: 10
+
+---------------- Repeat 0 ------------------
+Thread    8768 is stopped calculating
+Thread   21164 is stopped calculating
+Thread   20972 is stopped calculating
+Thread    6180 is stopped calculating
+Thread   22008 is stopped calculating
+Thread   15060 is stopped calculating
+Thread   16312 is stopped calculating
+Thread   19632 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 1 ------------------
+Thread    3100 is stopped calculating
+Thread   21708 is stopped calculating
+Thread   22296 is stopped calculatingThread    7460 is stopped calculating
+
+Thread    5088 is stopped calculating
+Thread    7004 is stopped calculating
+Thread   22096 is stopped calculating
+Thread   19512 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 2 ------------------
+Thread   17532 is stopped calculating
+Thread    1860 is stopped calculating
+Thread   18932 is stopped calculating
+Thread    6316 is stopped calculating
+Thread    2576 is stopped calculating
+Thread   15020 is stopped calculating
+Thread    6640 is stopped calculating
+Thread   17548 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 3 ------------------
+Thread   19940 is stopped calculating
+Thread   22156 is stopped calculating
+Thread    2876 is stopped calculating
+Thread    9152 is stopped calculating
+Thread   19228 is stopped calculating
+Thread   11344 is stopped calculating
+Thread   22212 is stopped calculating
+Thread    4576 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 4 ------------------
+Thread    7164 is stopped calculating
+Thread   15156 is stopped calculating
+Thread   11456 is stopped calculating
+Thread   17716 is stopped calculating
+Thread   18488 is stopped calculating
+Thread   19460 is stopped calculating
+Thread   21276 is stopped calculating
+Thread   17424 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 5 ------------------
+Thread   19852Thread   15952 is stopped calculating is stopped calculating
+
+Thread    1840 is stopped calculating
+Thread   20284 is stopped calculating
+Thread   21668 is stopped calculating
+Thread    1064 is stopped calculatingThread    3288 is stopped calculating
+
+Thread   16196 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 6 ------------------
+Thread   15064 is stopped calculating
+Thread   14104 is stopped calculating
+Thread   20704 is stopped calculating
+Thread   13192 is stopped calculating
+Thread   21040 is stopped calculating
+Thread   21096 is stopped calculating
+Thread   19316 is stopped calculating
+Thread   19296 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 7 ------------------
+Thread   17384 is stopped calculating
+Thread   20588 is stopped calculating
+Thread   11040 is stopped calculating
+Thread   17400 is stopped calculating
+Thread   19492 is stopped calculating
+Thread    7264 is stopped calculating
+Thread    9576 is stopped calculating
+Thread   16948 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 8 ------------------
+Thread   21924 is stopped calculating
+Thread    8780 is stopped calculating
+Thread    4864 is stopped calculating
+Thread   14724 is stopped calculating
+Thread   15252 is stopped calculating
+Thread   21344 is stopped calculating
+Thread   16268 is stopped calculating
+Thread    6728 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+
+---------------- Repeat 9 ------------------
+Thread   22308 is stopped calculating
+Thread   18388 is stopped calculating
+Thread   19852 is stopped calculating
+Thread   20124 is stopped calculating
+Thread   12820 is stopped calculating
+Thread   11920 is stopped calculating
+Thread   21368 is stopped calculating
+Thread   14136 is stopped calculating
+Result of several threads calculation:    5e+19
+Thread   22080 is stopped calculating
+Result of one thread calculation: 5e+19
+-----------------------------------------
+
+All several threads calculation times:
+4.63324
+3.7995
+3.97723
+3.9918
+4.22965
+3.88004
+4.20492
+4.20794
+3.95373
+4.16008
+General time of several threads calculation    41.0381
+Average time of several threads calculation    4.10381
+
+All one thread calculation times:
+30.011
+30.2784
+30.335
+30.3608
+30.1275
+30.2445
+30.247
+30.2866
+30.3873
+30.3046
+General time of one thread calculation 302.583
+Average time of one thread calculation 30.2583

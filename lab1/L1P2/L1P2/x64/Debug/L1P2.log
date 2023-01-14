@@ -1,0 +1,62 @@
+﻿  L1P2.cpp
+C:\TPU\SPOD\L1\L1P2\L1P2\L1P2.cpp(44,35): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\TPU\SPOD\L1\L1P2\L1P2\L1P2.cpp(110,29): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\TPU\SPOD\L1\L1P2\L1P2\L1P2.cpp(157,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\TPU\SPOD\L1\L1P2\L1P2\L1P2.cpp(211,171): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\type_traits(1572,98): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(51,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::invoke<main::<lambda_1>,int,double,int,float**,int,int,float**>(_Callable &&,_Ty1 &&,double &&,int &&,float **&&,int &&,int &&,float **&&) noexcept(false)"
+          with
+          [
+              _Callable=main::<lambda_1>,
+              _Ty1=int
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(61,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int std::thread::_Invoke<_Tuple,0,1,2,3,4,5,6,7>(void *) noexcept"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(66,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "unsigned int (__cdecl *std::thread::_Get_invoke<_Tuple,0,1,2,3,4,5,6,7>(std::integer_sequence<size_t,0,1,2,3,4,5,6,7>) noexcept)(void *)"
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\thread(89,5): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::thread::_Start<main::<lambda_1>&,int&,_Ty,int&,float**,int&,int&,float**&>(_Fn,int &,_Ty &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=double,
+              _Fn=main::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\xmemory(673,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::thread::thread<main::<lambda_1>&,int&,_Ty,int&,float**,int&,int&,float**&,0>(_Fn,int &,_Ty &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=double,
+              _Fn=main::<lambda_1> &
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(852,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(_Alloc &,_Objty *const ,main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Alloc=std::allocator<std::thread>,
+              _Ty=std::thread,
+              _Objty=std::thread
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(863,36): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::_Default_allocator_traits<_Alloc>::construct<_Ty,main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(_Alloc &,_Objty *const ,main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Alloc=std::allocator<std::thread>,
+              _Ty=std::thread,
+              _Objty=std::thread
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(839,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=std::thread
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(845,13): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_back_with_unused_capacity<main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=std::thread
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(925,1): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=std::thread
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.34.31933\include\vector(927,14): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty &std::vector<_Ty,std::allocator<_Ty>>::_Emplace_one_at_back<main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+          with
+          [
+              _Ty=std::thread
+          ]
+C:\TPU\SPOD\L1\L1P2\L1P2\L1P2.cpp(211,229): message : выполняется компиляция ссылки на экземпляр шаблон функции "void std::vector<std::thread,std::allocator<std::thread>>::emplace_back<main::<lambda_1>&,int&,double,int&,float**,int&,int&,float**&>(main::<lambda_1> &,int &,double &&,int &,float **&&,int &,int &,float **&)"
+  L1P2.vcxproj -> C:\TPU\SPOD\L1\L1P2\x64\Debug\L1P2.exe
