@@ -1,0 +1,5 @@
+﻿  L3P1.cpp
+C:\TPU\SPOD\lab3\L3P1\L3P1\L3P1.cpp(73,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  md5.cpp
+  Создание кода...
+  L3P1.vcxproj -> C:\TPU\SPOD\lab3\L3P1\x64\Debug\L3P1.exe
